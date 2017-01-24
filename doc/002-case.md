@@ -1,6 +1,6 @@
 ## 002 case
 
-Screencast link: https://www.youtube.com/watch?v=xxxxxxxx
+Screencast link: https://youtu.be/_f3WeoDSN-I
 
 See also chapter 3.3.4 of the [Clojure Standard Library](https://www.manning.com/books/clojure-standard-library) book.
 
