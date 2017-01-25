@@ -20,7 +20,14 @@ See also chapter 3.3.4 of the [Clojure Standard Library](https://www.manning.com
 (case 'pi (quote alpha) "a" (quote "beta") b (quote pi) "pi")
 (case 'pi alpha "a" beta "b" pi "pi")
 
-(defn calculator [op] (case op ("+" "plus") + ("-" "minus") - ("*" "times") * "/" / (constantly "uknown operand")))
+(defn calculator [op]
+  (case op
+    ("+" "plus") +
+    ("-" "minus") -
+    ("*" "times") *
+    "/" /
+    (constantly "uknown operand")))
+
 ((calculator "plus") 2 5)
 ((calculator "*") 2 5)
 ((calculator ".") 2 5)
