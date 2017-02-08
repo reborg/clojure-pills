@@ -7,6 +7,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [fnil](https://github.com/reborg/clojure-pills/blob/master/doc/001-fnil.md)
 * [case](https://github.com/reborg/clojure-pills/blob/master/doc/002-case.md)
 * [juxt](https://github.com/reborg/clojure-pills/blob/master/doc/003-juxt.md)
+* [range](https://github.com/reborg/clojure-pills/blob/master/doc/004-range.md)
 
 #### License
 
