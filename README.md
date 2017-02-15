@@ -8,6 +8,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [case](https://github.com/reborg/clojure-pills/blob/master/doc/002-case.md)
 * [juxt](https://github.com/reborg/clojure-pills/blob/master/doc/003-juxt.md)
 * [range](https://github.com/reborg/clojure-pills/blob/master/doc/004-range.md)
+* [trampoline](https://github.com/reborg/clojure-pills/blob/master/doc/005-trampoline.md)
 
 #### License
 
