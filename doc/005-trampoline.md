@@ -1,6 +1,6 @@
 ## 005 trampoline
 
-Screencast link: https://youtu.be/-Ul-XbIUiqE
+Screencast link: https://youtu.be/QrkRlQymfyw
 
 See also chapter 2.4.3 of the [Clojure Standard Library](https://www.manning.com/books/clojure-standard-library) book.
 
