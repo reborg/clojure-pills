@@ -4,7 +4,7 @@ Welcome to Clojure Pills, a weekly screencast about the functions in the Clojure
 
 This folder contains show notes for each episode, including the snippets illustrated at the REPL or other code that might be useful. Enjoy!
 
-### Next episodes
+### Next episodes ideas?
 
 * [ ] = is a good one, introducing all the equality stuff. It can be one of those seemingly simple operator that instead opens up endless discussions.
 * [ ] constantly: is one of the free samples. Should be easy and simple enough but I just did another higher order, would wait.

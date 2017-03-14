@@ -11,6 +11,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [trampoline](https://github.com/reborg/clojure-pills/blob/master/doc/005-trampoline.md)
 * [memoize](https://github.com/reborg/clojure-pills/blob/master/doc/006-memoize.md)
 * [subvec](https://github.com/reborg/clojure-pills/blob/master/doc/007-subvec.md)
+* [defmacro](https://github.com/reborg/clojure-pills/blob/master/doc/008-defmacro.md)
 
 #### License
 
