@@ -4,6 +4,15 @@ Screencast link: https://youtu.be/msxG2rHcUaM
 
 Also see chapter 4.1 of the [Clojure Standard Library](https://www.manning.com/books/clojure-standard-library) book.
 
+## Errata
+
+* At around 6:15 I confused the meaning of invoking a Symbol as a function. The symbol is looked up in the collection passed as the first argument (an ILookup to be precise). If the first argument is not a collection (like the case here) the default is returned so:
+
+        ('a {'a 1 'b 2})
+        ;; 1
+
+There is no lookup in the interned symbol table (which doesn't exist, I was confusing it with Keywords).
+
 ### Summary
 
 * Growing a little debug helper, how to show the initial form?
