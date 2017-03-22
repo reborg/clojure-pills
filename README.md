@@ -12,6 +12,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [memoize](https://github.com/reborg/clojure-pills/blob/master/doc/006-memoize.md)
 * [subvec](https://github.com/reborg/clojure-pills/blob/master/doc/007-subvec.md)
 * [defmacro](https://github.com/reborg/clojure-pills/blob/master/doc/008-defmacro.md)
+* [clojure.data/diff](https://github.com/reborg/clojure-pills/blob/master/doc/009-diff.md)
 
 #### License
 
