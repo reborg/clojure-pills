@@ -13,6 +13,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [subvec](https://github.com/reborg/clojure-pills/blob/master/doc/007-subvec.md)
 * [defmacro](https://github.com/reborg/clojure-pills/blob/master/doc/008-defmacro.md)
 * [clojure.data/diff](https://github.com/reborg/clojure-pills/blob/master/doc/009-diff.md)
+* [into](https://github.com/reborg/clojure-pills/blob/master/doc/010-into.md)
 
 #### License
 
