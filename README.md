@@ -18,6 +18,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [memfn](https://github.com/reborg/clojure-pills/blob/master/doc/012-memfn.md)
 * [empty?](https://github.com/reborg/clojure-pills/blob/master/doc/013-empty%3F.md)
 * [get](https://github.com/reborg/clojure-pills/blob/master/doc/014-get.md)
+* [contains?](https://github.com/reborg/clojure-pills/blob/master/doc/015-contains%3F.md)
 
 #### License
 
