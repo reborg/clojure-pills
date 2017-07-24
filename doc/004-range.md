@@ -30,7 +30,7 @@ See also chapter 3.4.2 of the [Clojure Standard Library](https://www.manning.com
 
 (defn palindrome? [xs]
   (let [cnt (count xs) idx (range (quot cnt 2) 0 -1)]
-    (every? #(= (nth xs %) (nth xs (- cnt % 1))) idx)))
+    (every? #(= (nth xs (dec %) ) (nth xs (- cnt %))) idx)))
 
 (palindrome? (remove #(= \space %) s))
 ;; true
