@@ -6,13 +6,14 @@ Also see chapter 3.5.4 of the [Clojure Standard Library](https://www.manning.com
 
 #### summary
 
-Intro: a stack consuming VS iterative recursion
-Reduce is the prototypical recursive iterative process:
-Contract
-Example: counting words (aka frequencies redo)
-See also:
-Performances
-See chart
+* Intro: a stack consuming VS iterative recursion
+* Reduce is the prototypical recursive iterative process:
+* Contract
+* Example: counting words (aka frequencies redo)
+* See also:
+* Performances
+* See chart
+
 ![perf](https://github.com/reborg/clojure-pills/blob/master/doc/reduce-bench.png)
 
 ### At the REPL
