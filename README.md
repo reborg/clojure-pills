@@ -21,6 +21,7 @@ The [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUn
 * [contains?](https://github.com/reborg/clojure-pills/blob/master/doc/015-contains%3F.md)
 * [reduce](https://github.com/reborg/clojure-pills/blob/master/doc/016-reduce.md)
 * [Life and death of an s-expression (special episode)](https://youtu.be/Uv9fyDTIPig)
+* [fold](https://github.com/reborg/clojure-pills/blob/master/doc/018-fold.md)
 
 #### License
 
